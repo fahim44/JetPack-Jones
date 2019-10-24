@@ -1,4 +1,4 @@
-# JetPack_Jones
+# JetPack Jones
 A android flappy bird type game.
 
 you can game in your android device.
